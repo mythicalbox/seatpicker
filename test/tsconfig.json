@@ -1,0 +1,25 @@
+{
+     "compilerOptions": {
+       "lib": ["es2020"],
+       "removeComments": true,
+       "moduleResolution": "node",
+       "noUnusedLocals": false,
+       "noUnusedParameters": true,
+       "sourceMap": true,
+       "target": "es2020",
+       "outDir": "./build/",
+       "experimentalDecorators": true,
+       "emitDecoratorMetadata": true,
+       "noImplicitAny": false,
+       "module": "commonjs"
+     },
+     "include": ["./**/*.ts"],
+     "exclude": [
+       "node_modules/**/*",
+       ".serverless/**/*",
+       ".webpack/**/*",
+       "_warmup/**/*",
+       ".vscode/**/*"
+     ]
+   }
+   

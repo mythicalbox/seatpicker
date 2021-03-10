@@ -1,0 +1,34 @@
+{
+  "application.js": "/packs/js/application-109c64aa8bbdeaf3592f.js",
+  "application.js.map": "/packs/js/application-109c64aa8bbdeaf3592f.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-109c64aa8bbdeaf3592f.js"
+      ],
+      "js.map": [
+        "/packs/js/application-109c64aa8bbdeaf3592f.js.map"
+      ]
+    },
+    "seats_data": {
+      "js": [
+        "/packs/js/seats_data-650020a04ee5b059fb23.js"
+      ],
+      "js.map": [
+        "/packs/js/seats_data-650020a04ee5b059fb23.js.map"
+      ]
+    },
+    "seats": {
+      "js": [
+        "/packs/js/seats-eea14e6149257d2364c9.js"
+      ],
+      "js.map": [
+        "/packs/js/seats-eea14e6149257d2364c9.js.map"
+      ]
+    }
+  },
+  "seats.js": "/packs/js/seats-eea14e6149257d2364c9.js",
+  "seats.js.map": "/packs/js/seats-eea14e6149257d2364c9.js.map",
+  "seats_data.js": "/packs/js/seats_data-650020a04ee5b059fb23.js",
+  "seats_data.js.map": "/packs/js/seats_data-650020a04ee5b059fb23.js.map"
+}
