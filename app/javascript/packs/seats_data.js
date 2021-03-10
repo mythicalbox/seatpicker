@@ -8,12 +8,6 @@ export function getData() {
                }
           },
           "seats": {
-               "a2": {
-                    "id": "a2",
-                    "row": "a",
-                    "column": 26,
-                    "status": "AVAILABLE"
-               },
                "h7": {
                     "id": "h7",
                     "row": "h",
@@ -23,13 +17,19 @@ export function getData() {
                "a1": {
                     "id": "a1",
                     "row": "a",
-                    "column": 25,
+                    "column": 1,
                     "status": "AVAILABLE"
                },
                "b5": {
                     "id": "b5",
                     "row": "b",
                     "column": 5,
+                    "status": "AVAILABLE"
+               },
+               "a2": {
+                    "id": "a2",
+                    "row": "a",
+                    "column": 2,
                     "status": "AVAILABLE"
                }
           }
