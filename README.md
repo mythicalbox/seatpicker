@@ -1,6 +1,9 @@
 
 # Seat picker
 
+## Algorithm
+To see our algorithm view app/javascript/packs/seats.js
+
 ## Install Ruby
 
 1. To get started make sure you have ruby installed:
